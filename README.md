@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lipton2777
+- 👋 Hi, I’m Lipton Ahammed
 - 👀 I’m interested to growing in DevOps culture.. 
 - 🌱 I’m currently learning Terraform, AWS ECS, EKS
 - 💞️ I’m looking to collaborate on Lead DevOps position
